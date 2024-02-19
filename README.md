@@ -1,4 +1,4 @@
-# CMSC320 Homework Assignment 1
+# CMSC320 Homework Assignment 1 - Tanay Shah
 
 This is the first homework assignment for CMSC320, Spring 2024 with Dr. Alam, on Git, Pandas, and SQL.
 
